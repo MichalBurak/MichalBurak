@@ -9,7 +9,7 @@ I am still studying at the Technical School on the programmer profile
 
 - 🔭 My profile on [Linkedin](https://www.linkedin.com/in/micha%C5%82-burak-1a772427b)
 
-- 🌱 I’m currently learning **React Nativ, TypeScript**
+- 🌱 I’m currently learning **React Native, TypeScript**
 
 - 📫 How to reach me **mburak.kon@gmail.com**
 
